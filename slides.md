@@ -30,7 +30,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 # 📹 先看个视频
 
 <video controls>
-  <source src="assets/presentation.mp4" type="video/mp4">
+  <source src="/assets/presentation.mp4" type="video/mp4">
 </video>
 
 ---
@@ -84,13 +84,13 @@ layout: default
 # 同类产品
 
 <div class="flex gap-x-16px">
-  <img src="assets/dada.jpg" class="w-184px rounded-lg shadow" />
+  <img src="/assets/dada.jpg" class="w-184px rounded-lg shadow" />
 
-  <img src="assets/jinjianyichu.jpg" class="w-184px rounded-lg shadow" />
+  <img src="/assets/jinjianyichu.jpg" class="w-184px rounded-lg shadow" />
 
-  <img src="assets/xindongyichu.jpg" class="w-184px rounded-lg shadow" />
+  <img src="/assets/xindongyichu.jpg" class="w-184px rounded-lg shadow" />
 
-  <img src="assets/haodahezi.jpg" class="w-184px rounded-lg shadow" />
+  <img src="/assets/haodahezi.jpg" class="w-184px rounded-lg shadow" />
 </div>
 
 ---
@@ -100,9 +100,9 @@ layout: default
 # 同类产品
 
 <div class="flex gap-x-16px">
-  <img src="assets/wodewupin.jpg" class="w-184px rounded-lg shadow" />
+  <img src="/assets/wodewupin.jpg" class="w-184px rounded-lg shadow" />
 
-  <img src="assets/guoqila.jpg" class="w-184px rounded-lg shadow" />
+  <img src="/assets/guoqila.jpg" class="w-184px rounded-lg shadow" />
 </div>
 
 ---
@@ -129,9 +129,9 @@ layout: two-cols
 
 <div class="flex">
 <div class="flex flex-col items-center">
-  <img src="assets/tada-icon.svg" class="w-108px h-108px" />
+  <img src="/assets/tada-icon.svg" class="w-108px h-108px" />
   <span class="font-semibold text-xl">Tada</span>
-  <img src="assets/slogan.gif" class="w-200px" />
+  <img src="/assets/slogan.gif" class="w-200px" />
 </div>
 </div>
 
@@ -156,7 +156,7 @@ layout: two-cols
 
 ::right::
 
-<img src="assets/add_cloth.jpeg" class="w-200px rounded-lg shadow mt-56px ml-32px" />
+<img src="/assets/add_cloth.jpeg" class="w-200px rounded-lg shadow mt-56px ml-32px" />
 
 ---
 
@@ -165,9 +165,9 @@ layout: two-cols
 提供一种对话式的交互方式，在拓展到其他类目的时候，也许能提供一种通用的交互形式。可以问各种问题，比如数据查询、穿搭推荐、收藏...
 
 <div class="flex gap-x-16px">
-  <img src="assets/chat-1.png" class="w-184px rounded-lg shadow" />
-  <img src="assets/chat-2.png" class="w-184px rounded-lg shadow" />
-  <img src="assets/chat-3.png" class="w-184px rounded-lg shadow" />
+  <img src="/assets/chat-1.png" class="w-184px rounded-lg shadow" />
+  <img src="/assets/chat-2.png" class="w-184px rounded-lg shadow" />
+  <img src="/assets/chat-3.png" class="w-184px rounded-lg shadow" />
 </div>
 
 
